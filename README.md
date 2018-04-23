@@ -21,9 +21,7 @@
 ### Visit the website
 [website](https://prosecrec.com)
 
-### Video
-[Video](https://prosecrec.com/#download)
-
+### Explainer Video
 [![YouTube Intro Video](https://img.youtube.com/vi/X1GcGkUBI28/0.jpg)](https://www.youtube.com/watch?v=X1GcGkUBI28)
 
 
