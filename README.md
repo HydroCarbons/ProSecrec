@@ -1,11 +1,12 @@
+# ProSecrec
+
 <p align="center">
-  ![Secrec Icon](SecrecIcon.png)
-  
-  # ProSecrec
-  Pro Secrec App - Secure Vault for your important information. https://prosecrec.com
+  <img src="SecrecIcon.png" height="256px">
 </p>
 
-<p align="center">This is a centered caption for the image<p align="center">
+<p align="center">
+  Pro Secrec App - Secure Vault for your important information. https://prosecrec.com
+<p align="center">
 
 ![Secrec App Screenshot](ProSecrec-Flyer.png)
 
@@ -28,5 +29,6 @@
 ### Screenshots
 [Features](https://prosecrec.com/#features)
 
+<hr/>
 ### Contact
 [Contact](https://prosecrec.com/#contact)
