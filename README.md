@@ -1,6 +1,9 @@
-![Secrec Icon](SecrecIcon.png)
-# ProSecrec
-Pro Secrec App - Secure Vault for your important information. https://prosecrec.com
+<p align="center">
+  ![Secrec Icon](SecrecIcon.png)
+  
+  # ProSecrec
+  Pro Secrec App - Secure Vault for your important information. https://prosecrec.com
+</p>
 
 ![Secrec App Screenshot](ProSecrec-Flyer.png)
 
