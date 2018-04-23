@@ -28,5 +28,3 @@
 
 
 <hr/>
-### Contact
-[Contact](https://prosecrec.com/#contact)
