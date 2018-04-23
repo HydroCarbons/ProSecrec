@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  Pro Secrec App - Secure Vault for your important information. https://prosecrec.com
+  <b>Pro Secrec App</b> - Secure Vault for your important information. https://prosecrec.com <br></br><br></br> <b>Secrec</b> <i>/ˈsēkrəsē/</i>, is your secure, portable and personal vault for organizing your confidential information like private keys, passwords etc.
+
 <p align="center">
 
 ![Secrec App Screenshot](ProSecrec-Flyer.png)
