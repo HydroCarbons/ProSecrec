@@ -1,5 +1,8 @@
+![Secrec Icon](SecrecIcon.png)
 # ProSecrec
 Pro Secrec App - Secure Vault for your important information. https://prosecrec.com
+
+![Secrec App Screenshot](ProSecrec-Flyer.png)
 
 ### Visit the website
 [website](https://prosecrec.com)
@@ -7,7 +10,7 @@ Pro Secrec App - Secure Vault for your important information. https://prosecrec.
 ### Request for Beta program access
 [Website](mailto:contact@prosecrec.com?subject=sign-up%20request%20for%20Secrec%20beta) 
 
-![Secrec App Screenshot]()
+
 
 ### Video
 [Video](https://prosecrec.com/#download)
