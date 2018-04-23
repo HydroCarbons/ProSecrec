@@ -25,11 +25,6 @@
 
 [![YouTube Intro Video](https://img.youtube.com/vi/X1GcGkUBI28/0.jpg)](https://www.youtube.com/watch?v=X1GcGkUBI28)
 
-### Screenshots
-[Screenshots](https://prosecrec.com/#screenshots)
-
-### Screenshots
-[Features](https://prosecrec.com/#features)
 
 <hr/>
 ### Contact
