@@ -7,8 +7,12 @@ Pro Secrec App - Secure Vault for your important information. https://prosecrec.
 ### Request for Beta program access
 [Website](mailto:contact@prosecrec.com?subject=sign-up%20request%20for%20Secrec%20beta) 
 
+![Auryo screenshot](screenshot0.9.0.jpg)
+
 ### Video
 [Video](https://prosecrec.com/#download)
+
+[![YouTube Intro Video](https://img.youtube.com/vi/X1GcGkUBI28/0.jpg)](https://www.youtube.com/watch?v=X1GcGkUBI28)
 
 ### Screenshots
 [Screenshots](https://prosecrec.com/#screenshots)
