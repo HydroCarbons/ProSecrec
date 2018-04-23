@@ -5,6 +5,8 @@
   Pro Secrec App - Secure Vault for your important information. https://prosecrec.com
 </p>
 
+<p align="center">This is a centered caption for the image<p align="center">
+
 ![Secrec App Screenshot](ProSecrec-Flyer.png)
 
 ### Visit the website
